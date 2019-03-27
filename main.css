@@ -136,12 +136,12 @@ footer li img {
   font-family: 'Roboto', sans-serif;
 }
 #secondquote {
-  color:Teal;
- 	font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  color:Orange;
+ 	font-size: 15px;
+  font-family: 'Arial', helvetica;
 }
 #thirdquote {
-  color:Teal;
- 	font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  color:Green;
+ 	font-size: 20px;
+  font-family: 'Verdana', georgia;
 }
