@@ -147,6 +147,8 @@ footer li img {
 #quotes {
   font-weight: bold;
   text-align: center;
+  color:SkyBlue;
+  font-family: 'Verdana', georgia;
 }
 #firstquote {
   color:SkyBlue;
