@@ -67,14 +67,15 @@ section .row img {
 .btn.btn-primary {
   border-radius: 2px;
   border: 0px;
-  color: #fbd1d5;
+  font-weight: 200;
+  color: SkyBlue;
   text-shadow: none;
   background-color: #ffffff;
 }
 
 .btn.btn-primary:hover {
   color: #ffffff;
-  background-color: #fbd1d5;
+  background-color: SkyBlue;
 }
 
 .btn-secondary {
@@ -91,6 +92,7 @@ footer {
 footer .col-sm-8 {
   display: flex;
   justify-content: flex-end;
+  color: SkyBlue;
 }
 
 footer ul {
@@ -108,6 +110,7 @@ footer li img {
 }
 .topthreeparagraphs {
   color: SkyBlue;
+  font-weight: 200;
 }
 #firstfav {
   font-size: 20px;
