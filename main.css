@@ -67,7 +67,7 @@ section .row img {
 .btn.btn-primary {
   border-radius: 2px;
   border: 0px;
-  font-weight: 200;
+  font-weight: 400;
   color: SkyBlue;
   text-shadow: none;
   background-color: #ffffff;
@@ -110,7 +110,7 @@ footer li img {
 }
 .topthreeparagraphs {
   color: SkyBlue;
-  font-weight: 200;
+  font-weight: 400;
 }
 #firstfav {
   font-size: 20px;
