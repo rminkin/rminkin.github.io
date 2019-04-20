@@ -150,9 +150,10 @@ footer li img {
   text-align: center;
 }
 #quotes {
-  font-weight: bold;
   text-align: center;
-  color:#ffffff;
+  font-size: 32px;
+  font-weight: 700;
+  color: #ffffff;
   text-shadow: none;
   font-family: 'Verdana', georgia;
 }
