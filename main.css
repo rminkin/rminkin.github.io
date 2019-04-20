@@ -121,9 +121,6 @@ footer li img {
   font-size: 15px;
   font-family: 'Verdana', georgia;
 }
-#passions span { 
-    background-color: SkyBlue;
-}
 #passions {
   font-size: 28px;
   font-weight: 700;
@@ -131,7 +128,9 @@ footer li img {
   text-shadow: none;
   font-family: 'Verdana', georgia;
 }
-
+#passions span { 
+    background-color: SkyBlue;
+}
 #firstfav {
   font-size: 20px;
   font-weight: 400;
@@ -176,19 +175,19 @@ footer li img {
   font-weight: 400;
   color: SkyBlue;
   font-family: 'Verdana', georgia;
-  text-align: center;
+  text-align: left;
 }
 #secondfact {
   font-size: 15px;
   font-weight: 400;
   color: SkyBlue;
   font-family: 'Verdana', georgia;
-  text-align: center;
+  text-align: left;
 }
 #thirdfact {
   font-size: 15px;
   font-weight: 400;
   color: SkyBlue;
   font-family: 'Verdana', georgia;
-  text-align: center;
+  text-align: left;
 }
