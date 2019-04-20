@@ -107,13 +107,13 @@ footer li img {
 }
 #myName {
   font-size: 32px;
-  border-radius: 2px;
-  border: 0px;
-  font-weight: 600;
+  font-weight: 700;
   color: #ffffff;
   text-shadow: none;
   font-family: 'Verdana', georgia;
-  background-color: SkyBlue;
+}
+#myName span { 
+    background-color: SkyBlue; 
 }
 .topthreeparagraphs {
   color: SkyBlue;
