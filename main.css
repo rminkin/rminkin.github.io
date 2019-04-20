@@ -161,17 +161,23 @@ footer li img {
     background-color: SkyBlue; 
 }
 #firstfact {
-  color:SkyBlue;
- 	font-size: 15px;
+  font-size: 15px;
+  font-weight: 400;
+  color: SkyBlue;
   font-family: 'Verdana', georgia;
+  text-align: center;
 }
 #secondfact {
-  color:SkyBlue;
- 	font-size: 15px;
+  font-size: 15px;
+  font-weight: 400;
+  color: SkyBlue;
   font-family: 'Verdana', georgia;
+  text-align: center;
 }
 #thirdfact {
-  color:SkyBlue;
- 	font-size: 15px;
+  font-size: 15px;
+  font-weight: 400;
+  color: SkyBlue;
   font-family: 'Verdana', georgia;
+  text-align: center;
 }
