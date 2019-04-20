@@ -152,8 +152,12 @@ footer li img {
 #quotes {
   font-weight: bold;
   text-align: center;
-  color:SkyBlue;
+  color:#ffffff;
+  text-shadow: none;
   font-family: 'Verdana', georgia;
+}
+#quotes span { 
+    background-color: SkyBlue; 
 }
 #firstquote {
   color:SkyBlue;
