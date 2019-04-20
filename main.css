@@ -149,7 +149,7 @@ footer li img {
   font-family: 'Verdana', georgia;
   text-align: center;
 }
-#facts {
+facts {
   text-align: center;
   font-size: 26px;
   font-weight: 700;
@@ -157,20 +157,20 @@ footer li img {
   text-shadow: none;
   font-family: 'Verdana', georgia;
 }
-#facts span { 
+facts span { 
     background-color: SkyBlue; 
 }
-#firstfact {
+firstfact {
   color:SkyBlue;
  	font-size: 15px;
   font-family: 'Verdana', georgia;
 }
-#secondfact {
+secondfact {
   color:SkyBlue;
  	font-size: 15px;
   font-family: 'Verdana', georgia;
 }
-#thirdfact {
+thirdfact {
   color:SkyBlue;
  	font-size: 15px;
   font-family: 'Verdana', georgia;
