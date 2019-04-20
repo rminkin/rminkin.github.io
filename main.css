@@ -160,7 +160,7 @@ footer li img {
   font-family: 'Verdana', georgia;
   text-align: center;
 }
-#fourthfav .crop {
+#fourthfav.crop {
     width: 634px;
     height: 400px;
     overflow: hidden;
