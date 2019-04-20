@@ -109,11 +109,11 @@ footer li img {
   font-size: 32px;
   border-radius: 2px;
   border: 0px;
-  font-weight: 400;
-  color: SkyBlue;
+  font-weight: 600;
+  color: #ffffff;
   text-shadow: none;
   font-family: 'Verdana', georgia;
-  background-color: #ffffff;
+  background-color: SkyBlue;
 }
 .topthreeparagraphs {
   color: SkyBlue;
