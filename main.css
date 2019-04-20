@@ -16,6 +16,7 @@ footer .row {
 header h1 {
   font-weight: 700;
   margin: 0;
+  color: Green;
 }
 
 header nav {
@@ -42,12 +43,16 @@ header p {
   font-size: 60px;
   font-weight: 700;
   margin: 0;
+  font-family: 'Verdana', georgia;
   color: #fff;
 }
 
 .jumbotron h3 {
   margin: 0 0 20px;
   color: #fff;
+  font-size:60px;
+  font-family: 'Verdana', georgia;
+  font-weight: 700;
 }
 
 section .row img {
@@ -98,6 +103,8 @@ footer li img {
 }
 #myName {
   font-size: 32px;
+  font-family: 'Verdana', georgia;
+  color: SkyBlue;
 }
 .topthreeparagraphs {
   color: SkyBlue;
@@ -106,24 +113,28 @@ footer li img {
   font-size: 20px;
   font-weight: 400;
   color: SkyBlue;
+  font-family: 'Verdana', georgia;
   text-align: center;
 }
 #secondfav {
   font-size: 20px;
   font-weight: 400;
   color: SkyBlue;
+  font-family: 'Verdana', georgia;
   text-align: center;
 }
 #thirdfav {
   font-size: 20px;
   font-weight: 400;
   color: SkyBlue;
+  font-family: 'Verdana', georgia;
   text-align: center;
 }
 #fourthfav {
   font-size: 20px;
   font-weight: 400;
   color: SkyBlue;
+  font-family: 'Verdana', georgia;
   text-align: center;
 }
 #quotes {
@@ -131,17 +142,17 @@ footer li img {
   text-align: center;
 }
 #firstquote {
-  color:Teal;
- 	font-size: 12px;
-  font-family: 'Roboto', sans-serif;
+  color:SkyBlue;
+ 	font-size: 15px;
+  font-family: 'Verdana', georgia;
 }
 #secondquote {
-  color:Orange;
+  color:SkyBlue;
  	font-size: 15px;
-  font-family: 'Arial', helvetica;
+  font-family: 'Verdana', georgia;
 }
 #thirdquote {
-  color:Green;
- 	font-size: 20px;
+  color:SkyBlue;
+ 	font-size: 15px;
   font-family: 'Verdana', georgia;
 }
