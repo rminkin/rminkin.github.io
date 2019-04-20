@@ -71,6 +71,7 @@ section .row img {
   font-size: 15px;
   color: SkyBlue;
   text-shadow: none;
+  font-family: 'Verdana', georgia;
   background-color: #ffffff;
 }
 
@@ -80,7 +81,7 @@ section .row img {
 }
 
 .btn-secondary {
-  background-color: #E8DFE0;
+  background-color: SkyBlue;
   color: #ffffff;
   margin: 0 0 30px;
 }
